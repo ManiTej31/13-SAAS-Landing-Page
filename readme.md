@@ -13,4 +13,4 @@ SAAS Landing Page developed using HTML and Css
 
 ## Mobile Responsive Design
 
-![Mobile Design](./Assets/13.mobile.jpeg)
+![Mobile Design](./assets/13.mobile.jpeg)
